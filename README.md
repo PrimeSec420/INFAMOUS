@@ -12,10 +12,10 @@ Usage of INFAMOUS for attacking targets without prior mutual consent is illegal.
 
 
 ### Usage:
-git clone https://github.com/PrimeSec420/INFAMOUS
-cd INFAMOUS
-bash INFAMOUS.sh
------------------------------------------
+
+1.) git clone https://github.com/PrimeSec420/INFAMOUS
+2.) cd INFAMOUS
+3.) bash INFAMOUS.sh
 
 ### Donate! and Help Support the Authors!
 PrimeModz Paypal: geharju1@outlook.com
