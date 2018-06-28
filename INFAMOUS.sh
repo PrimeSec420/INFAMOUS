@@ -127,13 +127,13 @@ printf "\e[1;77m     |_ _| \ | |  ___/ \  |  \/  |/ _ \| | | / ___|      \e[0m\n
 printf "\e[1;77m      | ||  \| | |_ / _ \ | |\/| | | | | | | \___ \   \e[0m\n"
 printf "\e[1;77m      | || |\  |  _/ ___ \| |  | | |_| | |_| |___) | \e[0m\n"
 printf "\e[1;77m     |___|_| \_|_|/_/   \_\_|  |_|\___/ \___/|____/  \e[0m\n"
-printf "\e[1;77m Thank You for purchasing INFAMOUS Welcome to v4.19! \e[0m\n"
+printf "\e[1;77m   Thank You for purchasing INFAMOUS Welcome to v4.19! \e[0m\n"
 printf "\n"
 printf "\e[1;93m{~~}\e[0m\e[1;77m Account Hacking Tool coded by: @root_primemodz \e[0m\e[1;93m{~~}\e[0m\n"
 printf "\n"
-printf "  \e[101m\e[1;77m:~:   Please report errors to our Dev Team: @BootingHub    :~:\e[0m\n"
-printf "  \e[101m\e[1;77m:~: Me and My Developers do not take any responsibilty for :~:\e[0m\n"
-printf "  \e[101m\e[1;77m:~: any Abuse or Misuse of INFAMOUS ,Thank you -PrimeModz  :~:\e[0m\n" 
+printf "  \e[101m\e[1;77m:~:   Please report errors to our Dev Team: @BootingHub   :~:\e[0m\n"
+printf "  \e[101m\e[1;77m:~: Me and My Developers do not take responsibilty for    :~:\e[0m\n"
+printf "  \e[101m\e[1;77m:~: any Abuse or Misuse of INFAMOUS ,Thank you -PrimeModz :~:\e[0m\n" 
 }
 
 createpage() {
